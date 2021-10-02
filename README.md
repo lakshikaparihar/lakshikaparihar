@@ -100,6 +100,8 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
 </p>
 
+<img src="https://github.com/lakshikaparihar/lakshikaparihar/blob/master/tweet.png" width="600">    
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
