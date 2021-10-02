@@ -114,9 +114,7 @@
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
-</p>
-
-<img src="https://github.com/lakshikaparihar/lakshikaparihar/blob/master/tweet.png" width="600">    
+</p> 
 
 ## 📊 Github stats
 
@@ -143,6 +141,7 @@
 
 </details>
 
+<br>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lakshikaparihar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshikaparihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
