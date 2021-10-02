@@ -1,6 +1,6 @@
 <h3 align="center">
-  Welcome to Lakshika Parihar's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   नमस्ते (Namaste), I am Lakshika Parihar!
+  <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="30">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,7 +18,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/pariharlakshika/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="mailto:pariharlakshika@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.hackerrank.com/pariharlakshika"><img width="32px" alt="HackerRank" title="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 
 
 <!-- Social badges section -->
@@ -31,6 +36,11 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lakshikaparihar"/></a>
   <a href="https://github.com/lakshikaparihar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lakshikaparihar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=lakshikaparihar.visitor-badge&title=Visits">
+    <img alt="Visits" src="https://badges.pufler.dev/visits/lakshikaparihar/lakshikaparihar?page_id=lakshikaparihar.visitor-badge&logo=eye&color=c179d4&labelColor=9811ba&style=for-the-badge&label=Visits&logoColor=white"></a> 
+
+</p>
+
 
 
 ## 📘 My top open source projects
@@ -121,8 +131,17 @@
 </details>
 
 
+<details> 
+  <summary>💻 GitHub Recent activity</summary>
+  <br/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshikaparihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lakshikaparihar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshikaparihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
