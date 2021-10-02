@@ -135,6 +135,10 @@
   <summary>💻 GitHub Recent activity</summary>
   <br/>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
+2. 💪 Opened PR [#4784](https://github.com/mlflow/mlflow/pull/4784) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
+3. 💪 Opened PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
+4. ❗️ Opened issue [#4689](https://github.com/mlflow/mlflow/issues/4689) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
 <!--END_SECTION:activity-->
 
 </details>
