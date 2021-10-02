@@ -37,38 +37,48 @@
   <a href="https://github.com/lakshikaparihar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lakshikaparihar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=lakshikaparihar.visitor-badge&title=Visits">
-    <img alt="Visits" src="https://badges.pufler.dev/visits/lakshikaparihar/lakshikaparihar?page_id=lakshikaparihar.visitor-badge&logo=eye&color=c179d4&labelColor=9811ba&style=for-the-badge&label=Visits&logoColor=white"></a> 
-
+    <img alt="Visits" src="https://badges.pufler.dev/visits/lakshikaparihar/lakshikaparihar?page_id=lakshikaparihar.visitor-badge&logo=eye&color=c179d4&labelColor=9811ba&style=for-the-badge&label=Visits&logoColor=white"></a>  
 </p>
 
-
-
-## 📘 My top open source projects
-
+<br>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/lakshikaparihar/Covid19-prediction-using-SIR-model"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Covid19-prediction-using-SIR-model&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Covid19-prediction-using-SIR-model"></a>
-  <a href="https://github.com/lakshikaparihar/Python-Scripts"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Python-Scripts&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Python-Scripts"></a>
-  <a href="https://github.com/lakshikaparihar/100daysofMLcode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=100daysofMLcode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="100daysofMLcode"></a>
-  <a href="https://github.com/lakshikaparihar/Hackerrank-Solutions"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Hackerrank-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hackerrank-Solutions"></a>
+<p align="centre">
+<a href="https://github.com/lakshikaparihar/Covid19-prediction-using-SIR-model">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Covid19-prediction-using-SIR-model&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F"  /></a>
+<a href="https://github.com/lakshikaparihar/Python-Scripts" >
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Python-Scripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F" alt="Python-Scripts" ></a>
+<a href="https://github.com/lakshikaparihar/100daysofMLcode">
+ <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=100daysofMLcode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F" alt="100daysofMLcode"></a>
+<a href="https://github.com/lakshikaparihar/Hackerrank-Solutions">
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Hackerrank-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F" alt="Hackerrank-Solutions"></a>
 
+<br>
+   <br>
 
 <p align="left">
   <a href="https://github.com/lakshikaparihar?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 🔥 Streak stats
 
+<h2 align="center"> :dart: Stats :dart:</h2>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshikaparihar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshikaparihar&theme=monokai-metallian&hide_border=true"/>
-  </a>
+   
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="lakshikaparihar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lakshikaparihar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="lakshikaparihar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshikaparihar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="196px"/>
+   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshikaparihar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshikaparihar&theme=monokai-metallian&hide_border=true"/></a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+<br>
 
 ## 🛠️ My favorite tools
 
@@ -129,17 +139,15 @@
 </details>
 
 
-<details> 
-  <summary>💻 GitHub Recent activity</summary>
-  <br/>
+
+<summary>💻 GitHub Recent activity</summary>
+
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
-2. 💪 Opened PR [#4784](https://github.com/mlflow/mlflow/pull/4784) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
-3. 💪 Opened PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
+1. ❌ Closed PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow) 
+2. 💪 Opened PR [#4784](https://github.com/mlflow/mlflow/pull/4784) in [mlflow/mlflow](https://github.com/mlflow/mlflow) 
+3. 💪 Opened PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow) 
 4. ❗️ Opened issue [#4689](https://github.com/mlflow/mlflow/issues/4689) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
 <!--END_SECTION:activity-->
-
-</details>
 
 <br>
 
