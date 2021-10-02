@@ -69,20 +69,24 @@
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="lakshikaparihar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lakshikaparihar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshikaparihar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshikaparihar&theme=monokai-metallian&hide_border=true"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="lakshikaparihar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshikaparihar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="196px"/>
-   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshikaparihar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshikaparihar&theme=monokai-metallian&hide_border=true"/></a>
+
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lakshikaparihar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshikaparihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <br>
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
+<h2 align="center"> 🛠️ My favorite tools 🛠️</h2>
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="25"></a>
@@ -91,28 +95,13 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="25"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="25"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="25"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" height="25"></a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="25"></a>
+   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" height="25"></a>
+   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="25"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="25"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" height="25"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25" ></a>
@@ -126,21 +115,8 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
 </p> 
 
-## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lakshikaparihar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lakshikaparihar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lakshikaparihar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshikaparihar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-
-
-<summary>💻 GitHub Recent activity</summary>
+## 💻 GitHub Recent activity
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
@@ -150,9 +126,6 @@
 <!--END_SECTION:activity-->
 
 <br>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lakshikaparihar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshikaparihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
