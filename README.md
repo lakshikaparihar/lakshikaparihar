@@ -74,9 +74,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="lakshikaparihar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshikaparihar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="196px"/>
 
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lakshikaparihar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lakshikaparihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -113,6 +110,7 @@
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
+   <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="25" ></a>
 </p> 
 
 
