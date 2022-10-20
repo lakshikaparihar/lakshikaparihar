@@ -52,7 +52,7 @@
 <a href="https://github.com/lakshikaparihar/100daysofMLcode">
  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=100daysofMLcode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F" alt="100daysofMLcode"></a>
 <a href="https://github.com/lakshikaparihar/Hackerrank-Solutions">
-   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=Hackerrank-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F" alt="Hackerrank-Solutions"></a>
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshikaparihar&repo=/Competitive-Platform-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=false&border_radius=10&border_color=F85D7F" alt="Hackerrank-Solutions"></a>
 
 <br>
    <br>
