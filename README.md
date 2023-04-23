@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 Yo, what's up folks! I'm a coding enthusiast who loves to tinker with all sorts of technology. My language of choice is Python, but I'm always down to explore the latest and greatest in the tech world.<br><br>As an MLOps Engineer/ML Engineer, I'm passionate about creating efficient and effective machine learning systems. I'm constantly pushing the boundaries of what's possible with data and AI.<br><br>Recently, I've been diving headfirst into the world of DevOps. I love the idea of automating everything and making sure things run smoothly.<br><br>Whether I'm building ML models or setting up CI/CD pipelines, you can bet I'm having a blast. Hit me up  for a fun chat or an adventure. So if you're looking for someone who's not just a coding machine, but also a fun travel buddy, look no further! Let's connect and see where the journey takes us.
 
@@ -18,10 +19,5 @@ Yo, what's up folks! I'm a coding enthusiast who loves to tinker with all sorts 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=lakshikaparihar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
